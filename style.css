@@ -1,0 +1,13 @@
+.flex-container{
+    display:flex;
+
+}
+
+.nav{
+    background-color: burlywood;
+    height:25px;
+    justify-content: space-evenly;
+    text-align: center;
+    display:flex;
+}
+
