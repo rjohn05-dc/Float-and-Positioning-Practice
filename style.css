@@ -9,5 +9,26 @@
     justify-content: space-evenly;
     text-align: center;
     display:flex;
+    font-size:medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.main{
+    font-size:small;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.sidenav{
+    position:fixed;
+    height:100px;
+    width: 100px;
+    border-style:solid;
+    border-width:3px;
+    border-color: rgb(136, 78, 78);
+}
+
+.footer{
+    font-size:medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
